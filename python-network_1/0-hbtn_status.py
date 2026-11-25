@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-#Doc sting of code
+'''doc sting of code'''
+
 import urllib.request
 
 url = 'https://intranet.hbtn.io/status'
